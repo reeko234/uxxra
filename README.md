@@ -3,6 +3,11 @@
 UXXR flutter app
 
 ## Getting Started
+flutter pub get
+- cd ios/
+Run the bellow command to update the podfile
+- pod install --repo-update 
+
 
 This project is a starting point for a Flutter application that follows the
 [simple app state management
