@@ -1,0 +1,6 @@
+{
+  "appTitle": "uxxrapp",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
